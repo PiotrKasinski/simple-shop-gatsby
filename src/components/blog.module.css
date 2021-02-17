@@ -1,0 +1,10 @@
+.page {
+    background: firebrick;
+}
+.page h1 {
+    color: khaki;
+}
+
+.text {
+    text-transform: capitalize;
+}
